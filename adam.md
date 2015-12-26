@@ -4,7 +4,7 @@ title: Team Adam
 permalink: /adam/
 ---
 
-Team RAdamyan Members:
+Team Adam Members:
 
 ### More Information
 
