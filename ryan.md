@@ -4,7 +4,7 @@ title: Team Ryan
 permalink: /ryan/
 ---
 
-Product Owner: Bob Winkel
+Product Owner: Bob Winkel 
 Scrum Master: Ryan O'Connor
 
 Developers:
