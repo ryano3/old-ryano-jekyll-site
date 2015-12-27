@@ -4,20 +4,20 @@ title: Team Ryan
 permalink: /ryan/
 ---
 
-Product Owner: Bob Winkel 
-Scrum Master: Ryan O'Connor
+Product Owner: Bob Winkel <br/>
+Scrum Master: Ryan O'Connor<br/>
 
-Developers:
-- Jerry Stasulis (US)
-- Joe Godleski (US)
-- David Mannies (US)
-- Padmanaban Venkatakrishnan (India)
-- Mahesh Deeti (India)
-- Amaresh Chandra Samal (India)
+Developers:<br/>
+- Jerry Stasulis (US)<br/>
+- Joe Godleski (US)<br/>
+- David Mannies (US)<br/>
+- Padmanaban Venkatakrishnan (India)<br/>
+- Mahesh Deeti (India)<br/>
+- Amaresh Chandra Samal (India)<br/>
 
-QC:
-- Rajendraprasad Gutta (India)
-- Purnima Ganta (India)
+QC:<br/>
+- Rajendraprasad Gutta (India)<br/>
+- Purnima Ganta (India)<br/>
 
 ### More Information
 
