@@ -3,6 +3,7 @@ layout: page
 title: Sprint Team Ryan
 permalink: /ryan/
 ---
+[roconnor@sisfirst.com](mailto:roconnor@sisfirst.com)
 ### Team Information:
 <table>
 <tr width='1280px'>
@@ -31,8 +32,3 @@ Sprint IDs:<br/>
 - 698880: Sprint 5<br/></td>
 </tr>
 </table>
-<br/>
-
-### Contact me
-
-[roconnor@sisfirst.com](mailto:roconnor@sisfirst.com)
