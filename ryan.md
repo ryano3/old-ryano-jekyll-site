@@ -5,6 +5,7 @@ permalink: /ryan/
 ---
 [roconnor@sisfirst.com](mailto:roconnor@sisfirst.com)
 ### Team Information:
+---
 <table>
 <tr width='1280px'>
 <td width='380px'><h4>Team Members</h4>Product Owner: Bob Winkel <br/>
