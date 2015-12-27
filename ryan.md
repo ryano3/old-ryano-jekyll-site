@@ -32,8 +32,6 @@ Sprint IDs:<br/>
 </tr>
 </table>
 <br/>
-### Integrity Release Information
-
 
 ### Contact me
 
