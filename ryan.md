@@ -6,7 +6,7 @@ permalink: /ryan/
 Team Information:
 <table>
 <tr width='1280px'>
-<td width='400px'><h4>Team Members</h4>Product Owner: Bob Winkel <br/>
+<td width='380px'><h4>Team Members</h4>Product Owner: Bob Winkel <br/>
 Scrum Master: Ryan O'Connor<br/><br/>
 Developers:<br/>
 - Jerry Stasulis (US)<br/>
@@ -18,8 +18,8 @@ Developers:<br/>
 QC:<br/>
 - Rajendraprasad Gutta (India)<br/>
 - Purnima Ganta (India)<br/></td>
-<td width='50px'></td>
-<td width='600px'>
+<td width='40px'></td>
+<td width='540px'>
 <h4>Integrity Release Information</h4>
 Release ID: 696312 Amkai Charts 4.0 - Team Ryan - Release 1<br/>
 Sprint IDs:<br/>
