@@ -19,19 +19,16 @@ QC:<br/>
 - Rajendraprasad Gutta (India)<br/>
 - Purnima Ganta (India)<br/>
 
-Integrity Release Information
---------------------------------
---------------------------------
-Release ID: **696312 Amkai Charts 4.0 - Team Ryan - Release 1**
-Sprint IDs:
+### Integrity Release Information
+Release ID: 696312 Amkai Charts 4.0 - Team Ryan - Release 1<br/>
+Sprint IDs:<br/>
+- 696645: Sprint 0<br/>
+- 698860: Sprint 1<br/>
+- 698861: Sprint 2<br/>
+- 698862: Sprint 3<br/>
+- 698863: Sprint 4<br/>
+- 698880: Sprint 5<br/>
 
-- **696645: Sprint 0**
-- **698860: Sprint 1**
-- **698861: Sprint 2**
-- **698862: Sprint 3**
-- **698863: Sprint 4**
-- **698880: Sprint 5**
-- 
 ### Contact me
 
 [roconnor@sisfirst.com](mailto:roconnor@sisfirst.com)
