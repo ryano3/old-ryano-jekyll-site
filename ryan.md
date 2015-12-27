@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Team Ryan
+title: Sprint Team Ryan
 permalink: /ryan/
 ---
 Team Information:
