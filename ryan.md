@@ -3,7 +3,7 @@ layout: page
 title: Sprint Team Ryan
 permalink: /ryan/
 ---
-Team Information:
+### Team Information:
 <table>
 <tr width='1280px'>
 <td width='380px'><h4>Team Members</h4>Product Owner: Bob Winkel <br/>
