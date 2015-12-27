@@ -1,7 +1,16 @@
 ---
-layout: default
+layout: page
+title: Dashboard
 ---
 
+<table>
+<tr width='900px'>
+<td><h4>Burndown</h4><iframe width='360px' height='350px' src='http://burndownfortrello.com/embed/bd3ii3v197' frameborder='0'></iframe></td>
+<td></td>
+<td><h4>Burnup</h4><iframe width='360px' height='350px' src='http://burndownfortrello.com/embed/bd3ii3v197?chartType=burnup' frameborder='0'></iframe></td>
+</tr>
+</table>
+<h4>Recent Posts</h4>
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
