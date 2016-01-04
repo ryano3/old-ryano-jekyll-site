@@ -3,6 +3,8 @@ layout: page
 title: Sprint Team Ryan
 permalink: /ryan/
 ---
+### Contact me
+[roconnor@sisfirst.com](mailto:roconnor@sisfirst.com)
 
 <table>
 <tr width='900px'>
@@ -11,8 +13,6 @@ permalink: /ryan/
 <td><h4>Sprint 3</h4><iframe width='360' height='350' src='https://burndownfortrello.com/embed/3ltz5lrv15' frameborder='0'></iframe></td>
 </tr>
 </table>
-### Contact me
-[roconnor@sisfirst.com](mailto:roconnor@sisfirst.com)
 
 ### Team Information:
 ---
