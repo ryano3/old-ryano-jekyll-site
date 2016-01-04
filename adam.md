@@ -21,21 +21,21 @@ permalink: /adam/
 <td width='380px'><h4>Team Members</h4>Product Owner: Jonathan Mucha <br/>
 Scrum Master: Adam Rogers<br/><br/>
 Developers:<br/>
- - <br/>
- - <br/>
- - <br/>
- - <br/>
- - <br/>
- - <br/><br/>
+ - AnandaRao Pappu (India)<br/>
+ - Girish Umadi (India)<br/>
+ - Suman Maddisetty (India)<br/>
+ - Yogesh Kulkarni (India)<br/>
+ - Bela Suranyi (Hungary)<br/>
+ - Tamas Sarandi (Hungary)<br/><br/>
 QC:<br/>
- - <br/>
- - <br/></td>
+ - Priyanka Tamminidi (India)<br/>
+ - Venkata Nadham Davala (India)<br/></td>
 <td width='40px'></td>
 <td width='540px'>
 <h4>Integrity Release Information</h4>
-Release ID: <ID> Amkai Charts 4.0 - Team Adam - Release 1<br/>
+Release ID: 696311 - Amkai Charts 4.0 - Team Adam - Release 1<br/>
 Sprint IDs:<br/>
- - : Sprint 0<br/>
+ - 697223 : Sprint 0<br/>
  - 697820 : Sprint 1<br/>
  - 697821 : Sprint 2<br/>
  - 699724 : Sprint 3<br/>
