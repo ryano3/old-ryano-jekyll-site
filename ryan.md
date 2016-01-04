@@ -33,7 +33,7 @@ QC:<br/>
 <td width='40px'></td>
 <td width='540px'>
 <h4>Integrity Release Information</h4>
-Release ID: 696312 Amkai Charts 4.0 - Team Ryan - Release 1<br/>
+Release: 696312 Amkai Charts 4.0 - Team Ryan - Release 1<br/>
 Sprint IDs:<br/>
  - 696645: Sprint 0<br/>
  - 698860: Sprint 1<br/>
