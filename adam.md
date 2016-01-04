@@ -18,7 +18,7 @@ permalink: /adam/
 ---
 <table>
 <tr width='1280px'>
-<td width='380px'><h4>Team Members</h4>Product Owner: Bob Winkel <br/>
+<td width='380px'><h4>Team Members</h4>Product Owner: Jonathan Mucha <br/>
 Scrum Master: Adam Rogers<br/><br/>
 Developers:<br/>
  - <br/>
@@ -36,11 +36,11 @@ QC:<br/>
 Release ID: <ID> Amkai Charts 4.0 - Team Adam - Release 1<br/>
 Sprint IDs:<br/>
  - : Sprint 0<br/>
- - : Sprint 1<br/>
- - : Sprint 2<br/>
- - : Sprint 3<br/>
- - : Sprint 4<br/>
- - : Sprint 5<br/>
- - : Sprint 6<br/></td>
+ - 697820 : Sprint 1<br/>
+ - 697821 : Sprint 2<br/>
+ - 699724 : Sprint 3<br/>
+ - 699725 : Sprint 4<br/>
+ - 699727 : Sprint 5<br/>
+ - 699728 : Sprint 6<br/></td>
 </tr>
 </table>
