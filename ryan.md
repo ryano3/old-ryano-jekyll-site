@@ -17,7 +17,7 @@ permalink: /ryan/
 <table>
 <tr width='1280px'>
 <td width='380px'><h4>Team Members</h4>Product Owner: Bob Winkel <br/>
-Scrum Master: Ryan O'Connor - [roconnor@sisfirst.com](mailto:roconnor@sisfirst.com)<br/><br/>
+Scrum Master: [Ryan O'Connor](mailto:roconnor@sisfirst.com)<br/><br/>
 Developers:<br/>
  - Jerry Stasulis (US)<br/>
  - Joe Godleski (US)<br/>
