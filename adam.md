@@ -4,16 +4,12 @@ title: Team Adam
 permalink: /adam/
 ---
 
-### Contact me
-
-[arogers@sisfirst.com](mailto:arogers@sisfirst.com)
-
 ### Team Information:
 ---
 <table>
 <tr width='1280px'>
 <td width='380px'><h4>Team Members</h4>Product Owner: Bob Winkel <br/>
-Scrum Master: Adam Rogers<br/><br/>
+Scrum Master: Adam Rogers - [arogers@sisfirst.com](mailto:arogers@sisfirst.com)<br/><br/>
 Developers:<br/>
  - <br/>
  - <br/>
