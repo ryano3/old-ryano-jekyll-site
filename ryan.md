@@ -10,11 +10,6 @@ permalink: /ryan/
 <td></td>
 <td><h4>Sprint 3</h4><iframe width='360' height='350' src='https://burndownfortrello.com/embed/3ltz5lrv15' frameborder='0'></iframe></td>
 </tr>
-<tr width='900px'>
-<td><h4>Sprint 2</h4><iframe width='360' height='350' src='https://burndownfortrello.com/embed/9ms1vlwm1b' frameborder='0'></iframe></td>
-<td></td>
-<td><h4>Sprint 1</h4><iframe width='360' height='350' src='https://burndownfortrello.com/embed/h1b23kmtrx' frameborder='0'></iframe></td>
-</tr>
 </table>
 [roconnor@sisfirst.com](mailto:roconnor@sisfirst.com)
 ### Team Information:
