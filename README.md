@@ -1,5 +1,5 @@
-# Mercury Rd 1
-We are using this website to post burnup charts and notes about the first 90 day release of the Mercury Project.
+# Ryan Testing Jekyll
+Just trying to see if this will work for a blog
 
 ###### Website Help Credit
 **Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll)).<br/>
